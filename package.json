@@ -1,0 +1,25 @@
+{
+  "name": "fuhad",
+  "version": "1.0.0",
+  "description": "This is the assesment",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fuhad"
+  },
+  "author": "Fuhad Olamilekan",
+  "license": "ISC",
+  "homepage": "https://phuard13.github.io/form",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-mongodb-session": "^2.2.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "gh-pages": "^2.1.1",
+    "mongoose": "^5.7.6"
+  }
+}
